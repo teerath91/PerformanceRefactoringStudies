@@ -1,0 +1,1269 @@
+<experiment>
+  <configHash>6b0de7acb51ed7ffe3130bbe7e47b6bb</configHash>
+  <outputDir>/home/teerath/android-runner/example/native/output/2019.09.25_145802/</outputDir>
+  <subjects>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+    <subject>
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+  </subjects>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="10">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="11">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="12">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="13">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="14">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="15">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="16">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="17">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="18">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="19">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="20">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="21">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="22">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="23">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="24">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="25">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="26">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="27">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="28">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="29">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="30">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="31">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="32">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="33">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="34">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="35">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="36">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="37">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="38">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="39">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="40">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="41">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="42">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="43">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="44">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="45">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="46">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="47">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="48">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="49">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="50">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="51">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="52">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="53">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="54">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="55">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="56">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="57">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="58">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="59">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="60">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="61">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="62">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="63">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="64">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="65">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="66">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="67">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="68">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="69">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="70">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="71">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="72">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="73">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="74">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="75">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="76">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="77">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="78">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="79">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="80">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="81">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="82">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="83">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="84">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="85">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="86">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="87">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="88">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="89">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="90">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="91">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="92">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="93">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="94">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="95">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="96">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="97">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="98">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="99">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="100">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="101">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="102">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="103">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="104">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="105">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="106">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="107">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="108">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="109">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="110">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="111">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="112">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="113">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="114">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="115">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="116">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="117">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="118">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="119">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="120">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="121">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="122">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="123">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="124">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="125">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="126">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="127">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="128">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="129">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="130">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="131">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="132">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="133">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="134">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="135">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="136">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="137">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="138">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="139">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="140">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="141">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="142">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="143">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="144">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="145">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="146">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="147">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="148">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="149">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="150">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="151">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="152">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="153">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="154">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="155">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="156">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="157">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="158">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="159">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="160">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="161">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="162">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="163">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="164">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="165">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="166">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="167">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="168">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="169">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="170">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="171">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="172">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="173">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="174">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="175">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="176">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="177">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="178">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="179">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="180">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="181">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="182">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="183">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="184">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="185">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="186">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="187">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="188">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="189">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="190">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="191">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="192">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="193">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="194">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="195">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="196">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="197">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="198">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="199">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="200">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="201">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="202">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="203">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="204">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="205">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="206">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="207">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="208">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="209">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="210">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="211">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="212">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="213">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="214">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="215">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="216">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="217">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="218">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="219">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="220">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="221">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="222">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="223">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="224">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="225">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="226">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="227">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="228">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="229">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="230">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="231">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="232">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="233">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="234">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="235">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="236">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="237">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="238">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="239">
+      <device>Galaxy A5</device>
+      <path>/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk</path>
+      <runCount>20</runCount>
+    </run>
+  </runsDone>
+</experiment>

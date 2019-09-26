@@ -1,0 +1,29 @@
+DrawAllocationNonRefactored,DrawAllocationRefactored,FloatMathNonRefactored,FloatMathRefactored,HandlerLeakNonRefactored,HandlerLeakRefactored,RecycleNonRefactored,RecycleRefactored,UseSparseArraysNonRefactored,UseSparseArraysRefactored,UsevalueOfNonRefactored,UsevalueOfRefactored,ViewHolderNonRefactored,ViewHolderRefactored
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Don't know,Don't know,Disagree,Neither agree nor disagree,Agree,Don't know
+Strongly disagree,Strongly disagree,Strongly agree,Agree,Disagree,Don't know,Don't know,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Don't know
+Don't know,Don't know,Disagree,Agree,Don't know,Don't know,Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Don't know,Don't know
+Disagree,Don't know,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Don't know,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Don't know,Neither agree nor disagree,Neither agree nor disagree
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+Disagree,Strongly agree,Disagree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly disagree,Agree,Agree,Agree,Neither agree nor disagree,Don't know,Agree
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree
+Disagree,Don't know,Disagree,Disagree,Don't know,Disagree,Agree,Strongly disagree,Disagree,Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Don't know,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree
+Disagree,Agree,Strongly agree,Strongly agree,Neither agree nor disagree,Don't know,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Disagree
+Don't know,Agree,Neither agree nor disagree,Disagree,Don't know,Agree,Strongly disagree,Don't know,Disagree,Don't know,Disagree,Agree,Strongly disagree,Strongly agree
+Agree,Strongly disagree,Disagree,Agree,Agree,Don't know,Agree,Agree,Disagree,Agree,Agree,Disagree,Disagree,Agree
+Strongly disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly agree
+Strongly disagree,Agree,Don't know,Don't know,Strongly disagree,Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree
+Agree,,Disagree,Agree,Don't know,,,Strongly agree,Disagree,Agree,,Disagree,Agree,Neither agree nor disagree
+Agree,,Agree,Disagree,Disagree,,,Disagree,Disagree,Disagree,,Agree,Agree,Disagree
+Neither agree nor disagree,,Don't know,Agree,Neither agree nor disagree,,,Strongly disagree,Disagree,Strongly agree,,Don't know,Strongly disagree,Neither agree nor disagree
+Disagree,,Neither agree nor disagree,Agree,Neither agree nor disagree,,,Don't know,Disagree,Agree,,Disagree,Neither agree nor disagree,Disagree
+Strongly disagree,,Strongly agree,Strongly agree,Don't know,,,Strongly disagree,Strongly disagree,Strongly disagree,,Agree,Strongly disagree,Strongly disagree
+Disagree,,Agree,Agree,Strongly agree,,,Disagree,Neither agree nor disagree,Neither agree nor disagree,,Agree,Disagree,Agree
+Disagree,,Disagree,Disagree,Agree,,,Agree,Agree,Agree,,Strongly agree,Strongly disagree,Strongly disagree
+Disagree,,,,Don't know,,,Strongly agree,,,,Disagree,,
+Disagree,,,,Disagree,,,Disagree,,,,Agree,,
+Neither agree nor disagree,,,,Neither agree nor disagree,,,Strongly disagree,,,,Agree,,
+Don't know,,,,Agree,,,Don't know,,,,Disagree,,
+Disagree,,,,Agree,,,Strongly disagree,,,,Strongly agree,,
+Strongly disagree,,,,Neither agree nor disagree,,,Strongly disagree,,,,Strongly agree,,
+Strongly agree,,,,Strongly agree,,,Agree,,,,Agree,,

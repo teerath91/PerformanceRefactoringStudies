@@ -1,0 +1,49 @@
+{
+  "type": "native",
+  "devices": ["Galaxy A5"],
+  "replications": 20,
+  "paths": [
+	"/home/teerath/android-runner/example/nl.vu.cs.apphandlerleak.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterhandlerleak.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appdrawallocation.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterdrawallocation.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.apprecycle.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterrecycle.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appusesparsearrays.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterusesparsearrays.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appusevalueof.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterusevalueof.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appviewholder.apk",
+	"/home/teerath/android-runner/example/nl.vu.cs.appafterviewholder.apk"
+
+  ],
+  "profilers": {
+    "android": {
+      "subject_aggregation" : "default",
+      "experiment_aggregation" : "default",
+      "sample_interval": 0,
+      "data_points": ["cpu", "mem"]
+    }
+ },
+  "scripts": {
+    "before_experiment": "Scripts/before_experiment.py",
+    "before_run": "Scripts/before_run.py",
+    "after_launch": "Scripts/after_launch.py",
+    "interaction": [
+      {
+        "type": "python2",
+        "path": "Scripts/interaction.py",
+        "timeout": 500,
+        "logcat_regex": "some keyword"
+      },
+      {
+        "type": "monkeyreplay",
+        "path": "Scripts/monkey.txt"
+      }
+    ],
+    "before_close": "Scripts/before_close.py",
+    "after_run": "Scripts/after_run.py",
+    "after_experiment": "Scripts/after_experiment.py"
+  },
+  "time_between_run": 12000
+}

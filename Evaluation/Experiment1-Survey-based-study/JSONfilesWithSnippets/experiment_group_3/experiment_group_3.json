@@ -1,0 +1,1154 @@
+{
+  "game": {
+    "predefinedUsers": [
+      {
+        "username": "group_3_user_1",
+        "password": "sdvnv2o78v"
+      },
+      {
+        "username": "group_3_user_2",
+        "password": "vnpoq932f"
+      },
+      {
+        "username": "group_3_user_3",
+        "password": "fqiwov389q344"
+      },
+      {
+        "username": "group_3_user_4",
+        "password": "vnpiowve9p8wep9"
+      },
+      {
+        "username": "group_3_user_5",
+        "password": "2fpj20p2z"
+      },
+      {
+        "username": "group_3_user_6",
+        "password": "23982f3hjfp2"
+      },
+      {
+        "username": "group_3_user_7",
+        "password": "3piojgr11234578erj8"
+      },
+      {
+        "username": "group_3_user_8",
+        "password": "gfkj8790uhjg"
+      },
+      {
+        "username": "group_3_user_9",
+        "password": "gjhjghfjygu7y"
+      }
+    ],
+    "game_name": "Performance-oriented refactoring in Android",
+    "gameIntroMessage": "<p>Welcome to our on-line survey on performance-oriented refactoring of Android apps!<br /><br />The purpose of this study is to investigate the perceptions of Android developers about performance-oriented refactoring based on Android Lint.<br /><br />This questionnaire will take 25-30 minutes to complete.<br /><br />RULES:</p><ul><li>The questionnaire is composed of <strong>7 levels</strong></li><li>Each level is composed of <strong>2 steps</strong>, where each step presents two versions of the same snippet of code</li><li>The order of the snippets in each step is random</li><li>For each step, <strong>carefully</strong> visualize the two snippets of code and answer the questions below them</li><li>if needed, you can better understand the context of each question by clicking on tis corresponding <strong>clarification link</strong></li></ul><p>This research is carried out jointly by the Computer Science division of the Gran Sasso Science Institute (Italy), the Department of Engineering of the University of Sannio (Italy), and the Software and Services Research Group of the Vrije Universiteit Amsterdam (The Netherlands).</p><p>Your participation in this research is anonymous. Should you choose to receive the final research report, we will e-mail you the research report when all the statistical information will be analysed and conclusions are drawn.</p><p>&nbsp;&nbsp;</p><p style='text-align: center;'><strong>All set. Lets start!</strong></p>",
+    "gameConclusionMessage": "<iframe src='https://docs.google.com/forms/d/e/1FAIpQLScj0HzIZbgtcmGIz00wLAVzC0X3oHbITG8jGE7l5zwyWPzqIg/viewform?embedded=true' width='640' height='1248' frameborder='0' marginheight='0' marginwidth='0'>Loading...</iframe>",
+    "showScoreConclusionGame": false,
+    "levels": [
+      {
+        "id": "1",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step0",
+            "file1": {
+              "label": "Left",
+              "path": "files/LanguagesAdapter_view10_before.java",
+              "clarificationUrl": "https://github.com/cmykola/Lexin/blob/a75d50a/src/com/example/lexinproject/data/LanguagesAdapter.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/LanguagesAdapter_view10_after.java",
+              "clarificationUrl": "https://github.com/cmykola/Lexin/blob/d4cee26/src/com/example/lexinproject/data/LanguagesAdapter.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step1",
+            "file1": {
+              "label": "Left",
+              "path": "files/ExerciseImageListAdapter_view4_after.java",
+              "clarificationUrl": "https://github.com/chaosbastler/opentraining/blob/b5f3034/app/src/de/skubware/opentraining/activity/create_exercise/ExerciseImageListAdapter.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/ExerciseImageListAdapter_view4_before.java",
+              "clarificationUrl": "https://github.com/chaosbastler/opentraining/blob/b5f3034/app/src/de/skubware/opentraining/activity/create_exercise/ExerciseImageListAdapter.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step2",
+            "file1": {
+              "label": "Left",
+              "path": "files/UserPreferences_value7_after.java",
+              "clarificationUrl": "https://github.com/google/paco/blob/942cd9f/Paco/src/com/google/android/apps/paco/UserPreferences.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/UserPreferences_value7_before.java",
+              "clarificationUrl": "https://github.com/google/paco/blob/942cd9f/Paco/src/com/google/android/apps/paco/UserPreferences.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step3",
+            "file1": {
+              "label": "Left",
+              "path": "files/Coercion4_value8_after.java",
+              "clarificationUrl": "https://github.com/bjerva/tsp-lexikon-android/blob/7a9da7c/tsp-lexikon-android/src/com/db4o/foundation/Coercion4.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/Coercion4_value8_before.java",
+              "clarificationUrl": "https://github.com/bjerva/tsp-lexikon-android/blob/7a9da7c/tsp-lexikon-android/src/com/db4o/foundation/Coercion4.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "id": "3",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step4",
+            "file1": {
+              "label": "Left",
+              "path": "files/SummaryGraph_draw6_before.java",
+              "clarificationUrl": "https://github.com/lordi/tickmate/blob/e63240d/src/de/smasi/tickmate/views/SummaryGraph.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/SummaryGraph_draw6_after.java",
+              "clarificationUrl": "https://github.com/lordi/tickmate/blob/cb53504/src/de/smasi/tickmate/views/SummaryGraph.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step5",
+            "file1": {
+              "label": "Left",
+              "path": "files/Dashboard2View_draw2_after.java",
+              "clarificationUrl": "https://github.com/eziosoft/MultiWii_EZ_GUI/blob/e2f45cb/src/com/ezio/multiwii/dashboard/Dashboard2View.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/Dashboard2View_draw2_before.java",
+              "clarificationUrl": "https://github.com/eziosoft/MultiWii_EZ_GUI/blob/e2f45cb/src/com/ezio/multiwii/dashboard/Dashboard2View.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step6",
+            "file1": {
+              "label": "Left",
+              "path": "files/TouchManagerView_float6_after.java",
+              "clarificationUrl": "https://github.com/ieee8023/PDFViewer/blob/b3f7e81/src/org/ebookdroid/common/touch/TouchManagerView.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/TouchManagerView_float6_before.java",
+              "clarificationUrl": "https://github.com/ieee8023/PDFViewer/blob/b3f7e81/src/org/ebookdroid/common/touch/TouchManagerView.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step7",
+            "file1": {
+              "label": "Left",
+              "path": "files/Vector2D_float8_before.java",
+              "clarificationUrl": "https://github.com/ieee8023/PDFViewer/blob/b3f7e81/src/org/ebookdroid/core/curl/Vector2D.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/Vector2D_float8_after.java",
+              "clarificationUrl": "https://github.com/ieee8023/PDFViewer/blob/b9c0899/src/org/ebookdroid/core/curl/Vector2D.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step8",
+            "file1": {
+              "label": "Left",
+              "path": "files/NanoConverter_handler7_before.java",
+              "clarificationUrl": "https://github.com/ZorgeR/nanoConverter/blob/2dd83f4/Source/src/com/nanoconverter/zlab/NanoConverter.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/NanoConverter_handler7_after.java",
+              "clarificationUrl": "https://github.com/ZorgeR/nanoConverter/blob/155278e/Source/src/com/nanoconverter/zlab/NanoConverter.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step9",
+            "file1": {
+              "label": "Left",
+              "path": "files/ZcoolFragment_handler6_after.java",
+              "clarificationUrl": "https://github.com/XunMengWinter/Now/blob/5ea1e70/app/src/main/java/top/wefor/now/fragment/ZcoolFragment.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/ZcoolFragment_handler6_before.java",
+              "clarificationUrl": "https://github.com/XunMengWinter/Now/blob/5ea1e70/app/src/main/java/top/wefor/now/fragment/ZcoolFragment.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step10",
+            "file1": {
+              "label": "Left",
+              "path": "files/MatchStatsAA_sparse9_after.java",
+              "clarificationUrl": "https://github.com/username115/FRCScouting/blob/0d685a9/src/org/frc836/aerialassist/MatchStatsAA.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/MatchStatsAA_sparse9_before.java",
+              "clarificationUrl": "https://github.com/username115/FRCScouting/blob/0d685a9/src/org/frc836/aerialassist/MatchStatsAA.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step11",
+            "file1": {
+              "label": "Left",
+              "path": "files/Message_sparse5_before.java",
+              "clarificationUrl": "https://github.com/Odoo-mobile/messaging/blob/e4d956a/src/com/openerp/addons/messages/Message.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/Message_sparse5_after.java",
+              "clarificationUrl": "https://github.com/Odoo-mobile/messaging/blob/87b89f9/src/com/openerp/addons/messages/Message.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "levelIntroMessage": "",
+        "levelConclusionMessage": "",
+        "showScoreConclusionLevel": false,
+        "steps": [
+          {
+            "id": "step12",
+            "file1": {
+              "label": "Left",
+              "path": "files/MotorCycleList_recycle7_after.java",
+              "clarificationUrl": "https://github.com/sairam1592/RoyalEnfieldFT/blob/608afaf/app/src/main/java/com/example/admin/royalenfield/BikeList/MotorCycleList.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/MotorCycleList_recycle7_before.java",
+              "clarificationUrl": "https://github.com/sairam1592/RoyalEnfieldFT/blob/608afaf/app/src/main/java/com/example/admin/royalenfield/BikeList/MotorCycleList.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          },
+          {
+            "id": "step13",
+            "file1": {
+              "label": "Left",
+              "path": "files/DB_recycle9_after.java",
+              "clarificationUrl": "https://github.com/username115/FRCScouting/blob/f6a6e99/src/org/frc836/database/DB.java"
+            },
+            "file2": {
+              "label": "Right",
+              "path": "files/DB_recycle9_before.java",
+              "clarificationUrl": "https://github.com/username115/FRCScouting/blob/f6a6e99/src/org/frc836/database/DB.java"
+            },
+            "questions": [
+              {
+                "question": "The code to the Left executes faster than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              },
+              {
+                "question": "The code to the Left is more comprehensible than the of code to the right. Do you agree?",
+                "answers": [
+                  {
+                    "text": "Strongly agree",
+                    "points": 2
+                  },
+                  {
+                    "text": "Agree",
+                    "points": 1
+                  },
+                  {
+                    "text": "Neither agree nor disagree",
+                    "points": 0
+                  },
+                  {
+                    "text": "Disagree",
+                    "points": -1
+                  },
+                  {
+                    "text": "Strongly disagree",
+                    "points": -2
+                  },
+                  {
+                    "text": "Don't know",
+                    "points": -3
+                  }
+                ],
+                "correctAnswer": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
